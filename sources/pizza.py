@@ -39,5 +39,5 @@ RECIPES = {
     'my pizza' :{
     'ingredients' :{'gorgonzola':4, 'onion':2, 'parmesan':2},
     'price': 10,
-}
+    },
 }
